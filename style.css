@@ -1,0 +1,23 @@
+body {
+  font-family: Arial, sans-serif;
+  background:url('weather.jpg');
+  background-size: cover;
+  text-align: center;
+  padding: 50px;
+}
+
+
+
+.app {
+  background: white;
+  padding: 30px;
+  border-radius: 10px;
+  max-width: 400px;
+  margin: auto;
+}
+
+input, button {
+  padding: 10px;
+  margin: 10px;
+}
+
