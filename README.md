@@ -14,7 +14,7 @@ A simple web app that shows real-time weather using the OpenWeatherMap API.
 [Screenshot (3)](https://github.com/user-attachments/assets/7f248a8e-3e01-4246-830e-e586bb682c57)
 
 ## Live Demo!
-
+https://github.com/kaurmann/weather-app
 
 
 ## Technologies Used
